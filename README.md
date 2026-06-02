@@ -5,10 +5,15 @@
 This project focuses on analyzing IPL (Indian Premier League) data using Microsoft Excel. The dashboard provides insights into team performance, player statistics, match trends, and season analysis through interactive visualizations and KPI metrics.
 
 ## Dataset Used
-- <a href="
+- <a href="https://github.com/Shivam-vaid/IPL-Excel-Project/blob/main/IPL%20Dataset%20PP.xlsx">Dataset view</a>
+
+- Dashboard <a href="https://github.com/Shivam-vaid/IPL-Excel-Project/blob/main/Screenshot%202026-06-02%20155921.png">Dashboard view</a>
+
+- Screenshot <img width="883" height="394" alt="Screenshot 2026-06-02 155921" src="https://github.com/user-attachments/assets/2678eb13-b66c-42fa-841d-3ac51f771c52" />
+
+
 
 ## Objectives
-
 * Analyze IPL team and player performance
 * Track season-wise statistics
 * Identify top-performing teams and players
